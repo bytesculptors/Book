@@ -1,0 +1,12 @@
+.pages {
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px 200px 200px;
+}
+
+img {
+    width: 100%;
+}
+
+.read-book {
+    margin-bottom: 30px;
+}
